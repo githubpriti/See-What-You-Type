@@ -18,7 +18,7 @@ What I learned in this:
 ![lco](./screenshots/Web%20capture_2-2-2023_151856_127.0.0.1.jpeg)
 ![lco](./screenshots/Web%20capture_2-2-2023_152144_127.0.0.1.jpeg)
 
-## [Live Project Link](http://127.0.0.1:5500/index.html)
+## [Live Project Link](https://silly-moonbeam-3289ba.netlify.app)
 
 For any query you can reach out at jajuvh@gmail.com I am happy to help anytime.
 
